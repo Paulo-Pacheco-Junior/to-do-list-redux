@@ -9,4 +9,4 @@ Meu To-do-list feito em React. [Incompleto]
 ![todolist1](https://user-images.githubusercontent.com/78752003/181660445-2219ac04-4553-47b7-a2ff-622c4da3d948.jpg)
 
 !!!OBSERVAÇÃO!!!: Esse projeto fiz do Zero sem acompanhar nenhuma aula, para testar o que consigo fazer com poucas consultas ao StackOverFlow.
- Por isso não usei o Redux ainda, pois como ainda tenho pouca prática com o Redux, apesar de já ter estudado, revisado e ter entendido os conceitos. Usá-lo agora iria atrapalhar o objetivo de demonstrar o que já consigo fazer com mais facilidade com o React. Apesar disso eu conseguiria facilmente resolver esse problema do Redux, copiando, colando e adaptando o código. 
+ Por isso não usei o Redux AINDA, pois ainda tenho pouca prática com ele, apesar de já te-lo estudado, revisado e ter entendido os conceitos. Usá-lo agora iria atrapalhar o objetivo principal desse projeto que é demonstrar o que consigo fazer com mais facilidade com o React. Apesar disso eu conseguiria facilmente resolver o problema do Redux, copiando, colando e adaptando o código para ter apenas uma lista compartilhada entre todas as páginas.

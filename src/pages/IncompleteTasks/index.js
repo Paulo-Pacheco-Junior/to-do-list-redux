@@ -6,12 +6,12 @@ import { Container } from './styled';
 function IncompleteTasks() {
 
   const [ tasks, setTasks ] = useState([
-    {id:1, task:'acordar as 07:00', status:true},
-    {id:2, task:'dar pepino pros porquinhos', status:true},
-    {id:3, task:'lavar as vasilhas', status:false},
-    {id:4, task:'tomar banho aprox 17:00', status:true},
-    {id:5, task:'estudar', status:false},
-    {id:6, task:'malhar', status:false},
+    {id:1, task:'Acordar 07:00', status:true},
+    {id:2, task:'Cuidar dos porquinhos da Índia', status:true},
+    {id:3, task:'Fazer compras', status:false},
+    {id:4, task:'Fazer um projeto', status:true},
+    {id:5, task:'Fazer uma entrevista de emprego', status:false},
+    {id:6, task:'Malhar', status:false},
     {id:7, task:'Dormir no máximo 23:00', status:false}
   ]);
 

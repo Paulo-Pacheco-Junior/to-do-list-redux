@@ -1,6 +1,9 @@
 Meu To-do-list feito em React. [Incompleto]
 
-!!!IMPORTANTE!!!: A Lista de Conhecimentos Demonstrados no Final eu tenho Habilidades para Desenvolver com Total Autonomia.
+!!!IMPORTANTE!!!: A Lista de Conhecimentos Demonstrados no Final eu tenho Habilidades para Desenvolver com Autonomia em casos mais simples como esse.
+
+!!!OBSERVAÇÃO IMPORTANTE!!!: Esse projeto fiz do Zero sem acompanhar nenhuma aula, para testar o que consigo fazer com poucas consultas ao StackOverFlow.
+ Por isso não usei o Redux ainda, pois como ainda tenho pouca prática com o Redux, apesar de já ter estudado, revisado e ter entendido os conceitos. Usá-lo agora iria atrapalhar o objetivo de demonstrar o que já consigo fazer com mais facilidade com o React. Apesar disso eu conseguiria facilmente resolver esse problema do Redux, copiando, colando e adaptando o código. 
 
 ![todolist3](https://user-images.githubusercontent.com/78752003/181660393-101b5b28-0f3d-41c7-a752-f37d0222487f.jpg)
 

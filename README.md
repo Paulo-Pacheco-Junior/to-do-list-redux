@@ -1,4 +1,4 @@
-# Projeto Próprio feito em React | Styled Components | Responsivo
+# React | Styled Components | Responsivo
 
 ![todolist01](https://user-images.githubusercontent.com/78752003/181667005-74b66409-9b54-4266-ae66-f8e4d4348ade.jpg)
 

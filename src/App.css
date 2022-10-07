@@ -1,0 +1,30 @@
+.responsive {
+    width:100% !important;
+    min-width:530px !important;
+    min-height:100vh !important;
+}
+
+.responsive-text {
+    text-align:start;
+}
+
+@media(min-width:768px) and (max-width:991px) {
+    .responsive-text {
+        font-size:18px !important;
+    }
+
+}
+
+@media(min-width:992px) and (max-width:1200px) {
+    .responsive-text {
+        font-size:20px !important;
+    }   
+
+}
+
+@media(min-width:1201px) {
+    .responsive-text {
+        font-size:25px !important;
+    }   
+
+}
